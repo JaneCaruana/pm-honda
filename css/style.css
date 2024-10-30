@@ -200,6 +200,11 @@ nav{
 }
 #bottom3{
 	background: var(--secondaryColor);
+	overflow: hidden;
+}
+.btm3-img img{
+	max-width: 815px;
+	width: 100%;
 }
 .footer-btm{
 	background: var(--primaryColor);
