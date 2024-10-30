@@ -163,7 +163,8 @@ nav{
 	background: #eeeeee;
 }
 .btm1-btn a{
-	width: 345px;
+	max-width: 345px;
+	width: 100%;
 	line-height: 65px;
 }
 #bottom2{
